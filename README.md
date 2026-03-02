@@ -1,4 +1,4 @@
-Deployed Link: https://palynological-vito-pseudoeconomically.ngrok-free.dev/
+Deployed Link: https://heart69.streamlit.app
 ❤️ Heart Disease Prediction using Machine Learning
 
 🌐 Project Overview
